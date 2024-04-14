@@ -14,3 +14,18 @@ color: blue;
 text-align: center;
 background-color: yellow;
 }
+.rediska
+{
+  font-size: 15px;
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.zagolovok
+{
+ font-size: 30px; 
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
